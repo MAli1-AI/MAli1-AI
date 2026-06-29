@@ -28,7 +28,7 @@ A comprehensive Java console application for global time tracking and productivi
 
 - **Tech Stack:** Java, File I/O, DateTime APIs, ANSI Console UI
 - **Highlights:** World clock system, prayer times calculator, alarm manager, task and event scheduler, timer and stopwatch
-- **Status:** Complete | [View Repository] (https://github.com/MAli1-AI/ChronoSphere)
+- **Status:** Complete | [View Repository](https://github.com/MAli1-AI/ChronoSphere)
 
 ---
   
