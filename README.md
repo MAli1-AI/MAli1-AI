@@ -1,4 +1,4 @@
-#  Mohammad Ali Mughal |  AI Learner & Developer
+#  Mohammad Ali Mughal |  Aspiring AI Engineer
 
 Passionate about bridging theoretical concepts with practical implementations through intelligent systems. I'm focused on leveraging AI to create solutions that anticipate needs rather than just respond to them, building towards a future where technology understands context, not just commands.
 
@@ -16,12 +16,11 @@ Passionate about bridging theoretical concepts with practical implementations th
 
 ##  Featured Projects
 
-### 🛒 **StrideX** – *Neon-Themed Footwear E-Commerce Platform*
-A dynamic, front-end web application showcasing modern retail interface design with full shopping cart functionality.
+### 🏫 **Campus Complaint Tracking System** – *A complete Java Swing desktop application for streamlined university complaint management and tracking.*
 
-- **Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage
-- **Highlights:** Interactive shopping cart, responsive design, product filtering, neon-dark aesthetic
-- **Status:** Complete | [View Repository] (https://github.com/MAli1-AI/StrideX)
+- **Tech Stack:** Java, Swing, File I/O, OOP Design Patterns, DateTime APIs
+- **Highlights:** 5 user roles with role-based dashboards, priority-based deadline calculation (7 days → 1 hour), auto-assignment of resolvers, sequential status updates (25% → 50% → 75% → 100%), feedback system (0-100%), manager query & reassign, resolver flagging, file-based notifications
+- **Status:** Complete | [View Repository](https://github.com/MAli1-AI/Campus-Complaint-Tracking-System)
 
 
 ### ⏰ **ChronoSphere** – *Global Time Management & Smart Utility Suite*
